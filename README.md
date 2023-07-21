@@ -9,9 +9,9 @@ Date the repository was created: 22/07/2023
 
 **Files Description**:
 
-eBirdData.R: A comprehensive guide to downloading eBird data.
+*eBirdData.R*: A comprehensive guide to downloading eBird data.
 
-EnviVar: A step-by-step guide to downloading environmental predictors.
+*EnviVar*: A step-by-step guide to downloading environmental predictors.
 
-SDM.R: A detailed guide for developing species distribution models.
+*SDM.R*: A detailed guide for developing species distribution models.
 
